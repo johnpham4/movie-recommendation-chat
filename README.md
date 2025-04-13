@@ -6,12 +6,6 @@
 - **Frontend**: A web interface built with React
 - 
 ```
-
-🔗 **Model Checkpoint:**  
-[Download here](https://drive.google.com/file/d/1sTPV7wihk4b37Y6fpX454c05JiX1NP4T/view?usp=sharing)
-
----
-
 ## 🛠 Installation & Setup
 
 ### 1️⃣ Setting up **Backend**
