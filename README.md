@@ -71,9 +71,8 @@ npm start
 ---
 
 ### 🖼️ Application UI
-![Application UI](images/start.jpg)
----
-![Application UI](images/question.jpg)
----
-![Application UI](images/movies.jpg)
----
+<p align="center">
+  <img src="images/start.jpg" width="250" style="margin-right: 10px;" />
+  <img src="images/question.jpg" width="250" style="margin-right: 10px;" />
+  <img src="images/movies.jpg" width="250" />
+</p>
