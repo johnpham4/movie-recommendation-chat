@@ -1,0 +1,69 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #050b36;
+  font-family: "Georgia", serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+  padding: 40px 20px;
+  width: 110%;
+  max-width: 400px;
+}
+
+.popcorn-icon {
+  width: 120px;
+  margin-bottom: 20px;
+}
+
+.title {
+  font-size: 36px;
+  color: white;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+.input-box {
+  display: block;
+  width: 100%;
+  padding: 15px;
+  margin: 10px 0;
+  font-size: 18px;
+  border: none;
+  border-radius: 12px;
+  background-color: #2f356b;
+  color: white;
+  text-align: center;
+  outline: none;
+}
+
+.input-box::placeholder {
+  color: #aab2d5;
+}
+
+.start-button {
+  width: 100%;
+  padding: 15px;
+  margin-top: 20px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #050b36;
+  background-color: #6eef95;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.start-button:hover {
+  background-color: #4de67f;
+}

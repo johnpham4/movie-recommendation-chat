@@ -1,0 +1,2 @@
+npm init -y
+npm install express cors dotenv langchain @supabase/supabase-js
