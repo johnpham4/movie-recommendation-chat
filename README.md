@@ -70,4 +70,10 @@ npm start
 
 ---
 
-
+### 🖼️ Application UI
+![Application UI](images/start.jpg)
+---
+![Application UI](images/question.jpg)
+---
+![Application UI](images/movies.jpg)
+---
